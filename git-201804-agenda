@@ -1,0 +1,14 @@
+Git workshop agenda:
+
+1.  Installing git
+2.  Introduction and Motivation for Version Control Systems
+3.  Git Basics: creating repos/commit
+4.  Git Basics: branching/checkout
+5.  Git Basics: Using commit history
+6.  Remotes and Github
+7.  Cloning a Github repository
+8.  Pushing/Pulling changes from/to Local
+9.  Merging branches
+10. Resolving merge conflicts
+11. Pull request workflow (Optional)
+12. Git internals (Optional)
